@@ -1,5 +1,5 @@
 api-details:
-  display: "Hello, CDF! Staging"
+  display: "Hello, CDF! Staging is under dev"
   version: "v1"
   owner: "Rajesh Sharma"
   description: "This is a sample API for cdf details"
