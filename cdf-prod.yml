@@ -1,5 +1,5 @@
 api-details:
-  display: "Hello, CDF! CDF is Not live. It's Live now"
+  display: " FGood Hello!!, User! User is live Hurray!!!"
   version: "v1"
   owner: "Rajesh Sharma"
-  description: "This is a sample API for cdf details"
+  description: "This is a sample API for user details"
