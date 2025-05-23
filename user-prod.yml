@@ -1,5 +1,5 @@
 api-details:
-  display: "Hello, User! User is under development"
+  display: "Hello, User! User is live"
   version: "v1"
   owner: "Rajesh Sharma"
   description: "This is a sample API for user details"
