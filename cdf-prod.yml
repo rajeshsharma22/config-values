@@ -1,5 +1,5 @@
 api-details:
-  display: " FGood Hello!!, User! User is live Hurray!!!"
+  display: "Hello, I am cdf-service running in production."
   version: "v1"
   owner: "Rajesh Sharma"
   description: "This is a sample API for user details"
