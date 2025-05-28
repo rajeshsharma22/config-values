@@ -1,5 +1,5 @@
 api-details:
-  display: "Hello, I am cdf-service running in production."
+  display: "Hello, I am cdf-service not ready to run in production."
   version: "v1"
   owner: "Rajesh Sharma"
   description: "This is a sample API for user details"
