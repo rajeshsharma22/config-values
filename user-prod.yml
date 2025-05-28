@@ -1,5 +1,5 @@
 api-details:
-  display: "Hello, I am user-service running in production. Please have a look "
+  display: "Hello, I am user-service running in production. Please have a look. We are Live now. "
   version: "v1"
   owner: "Rajesh Sharma"
   description: "This is a sample API for user details"
